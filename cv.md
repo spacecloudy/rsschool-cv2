@@ -40,4 +40,4 @@ function multiply(a, b){
  - _RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)_
 
  #### English
- А1. Breakthrough or beginner
+ - _А1. Breakthrough or beginner_
