@@ -1,5 +1,5 @@
 # Anastasiia Miranovich
-##### Junior Frontend Developer, retoucher, phothographer
+#### Junior Frontend Developer, retoucher, phothographer
 ***
 
 
@@ -12,14 +12,14 @@
 ####  About me
 I graduated from the hight university with a degree in meteorology. I really like html, css, java-script. I am self-taught at home on various online platforms. My hobbies are photography and baking.
 
- ####  Skills
+####  Skills
  - _HTML(Basic) /CSS(Basic) / JavaScript(Basic)_
  - _photoshop_
  - _Capture One_
  - _Lightroom_
  - _Git (Basic)_
 
- #### Code Example
+#### Code Example
  ```
 function multiply(a, b){
   return a * b
@@ -32,12 +32,12 @@ function multiply(a, b){
   - ___supply manager and logist___ (After working for several years, I became the head of the department) 
   - ___student___ (Now I learning https/css/javascript)
 
- #### Education
+#### Education
  - _Tomsk State University, Faculty of Geology and Geography, specialty meteorology_
  - _additional education in Tomsk State University Faculty of Ecology : ecologist_
  - _accounting courses_
  - 
  - _RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)_
 
- #### English
+g#### English
  - _А1. Breakthrough or beginner_
