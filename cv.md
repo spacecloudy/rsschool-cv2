@@ -37,6 +37,3 @@ function multiply(a, b){
  - _additional education in Tomsk State University Faculty of Ecology : ecologist_
  - _accounting courses_
  - _RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)_
-
-#### English level
- - _А1. Breakthrough or beginner_
