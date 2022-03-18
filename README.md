@@ -1,1 +1,1 @@
-https://Whitehumster.github.io/rsschool-cv/cv
+https://whitehumster.github.io/rsschool-cv
