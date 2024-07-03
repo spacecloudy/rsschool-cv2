@@ -1,1 +1,1 @@
-https://github-whitehumster.github.io/rsschool-cv
+https://github-spacecloudy.github.io/rsschool-cv
