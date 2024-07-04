@@ -38,5 +38,5 @@ function multiply(a, b){
  - _accounting courses_
  - _RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)_
 
-#### English level
+#### English 
  - _А1. Breakthrough or beginner_
